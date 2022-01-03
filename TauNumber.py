@@ -9,10 +9,3 @@ def check(num):
         print(num , "is not a Tau Number")
 
 check(8)
-check(9)
-check(12)
-check(18)
-check(20)
-check(22)
-check(24)
-check(41)
